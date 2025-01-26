@@ -1,0 +1,52 @@
+h1 {
+  text-align: center;
+  color: #cb810b;
+  font-size: 30px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-style: unset;
+}
+span {
+  text-decoration: double;
+  line-height: 4;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  margin-bottom: none;
+  font-family: "Open Sans", sans-serif;
+  font-size: 19px;
+  color: #615c5cba;
+  line-height: 2;
+}
+
+#yahya {
+  display: inline-block;
+  border-radius: 100px;
+  margin-left: 1200px;
+  margin-top: 100px;
+}
+h3 {
+  font-family: inherit;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h5 {
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 20px;
+}
+aside {
+  /*background-color: brown;*/
+}
+
+.portfolio {
+  display: block;
+  color: #eb2121;
+  padding-top: 30px;
+  font-family: unset;
+  text-align: center;
+}
